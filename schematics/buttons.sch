@@ -394,6 +394,8 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 <sheets>
 <sheet>
 <plain>
+<frame x1="-22.86" y1="-45.72" x2="132.08" y2="83.82" columns="8" rows="5" layer="97"/>
+<text x="91.44" y="48.26" size="2.54" layer="97">Flexible cable</text>
 </plain>
 <instances>
 <instance part="F1/SF" gate="1" x="15.24" y="66.04" smashed="yes" rot="R270">
@@ -432,45 +434,45 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 <attribute name="NAME" x="12.7" y="-29.21" size="1.778" layer="95"/>
 <attribute name="VALUE" x="18.415" y="-31.75" size="1.778" layer="96"/>
 </instance>
-<instance part="SV1" gate="-1" x="114.3" y="25.4" smashed="yes" rot="R180">
-<attribute name="NAME" x="114.808" y="24.384" size="1.778" layer="95"/>
-<attribute name="VALUE" x="114.046" y="27.813" size="1.778" layer="96" rot="R180"/>
+<instance part="SV1" gate="-1" x="106.68" y="-5.08" smashed="yes" rot="R180">
+<attribute name="NAME" x="107.188" y="-6.096" size="1.778" layer="95"/>
+<attribute name="VALUE" x="106.426" y="-2.667" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SV1" gate="-2" x="114.3" y="30.48" smashed="yes" rot="R180">
-<attribute name="NAME" x="114.808" y="29.464" size="1.778" layer="95"/>
-<attribute name="VALUE" x="114.046" y="32.893" size="1.778" layer="96" rot="R180"/>
+<instance part="SV1" gate="-2" x="106.68" y="0" smashed="yes" rot="R180">
+<attribute name="NAME" x="107.188" y="-1.016" size="1.778" layer="95"/>
+<attribute name="VALUE" x="106.426" y="2.413" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SV1" gate="-3" x="114.3" y="35.56" smashed="yes" rot="R180">
-<attribute name="NAME" x="114.808" y="34.544" size="1.778" layer="95"/>
-<attribute name="VALUE" x="114.046" y="37.973" size="1.778" layer="96" rot="R180"/>
+<instance part="SV1" gate="-3" x="106.68" y="5.08" smashed="yes" rot="R180">
+<attribute name="NAME" x="107.188" y="4.064" size="1.778" layer="95"/>
+<attribute name="VALUE" x="106.426" y="7.493" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SV1" gate="-4" x="114.3" y="40.64" smashed="yes" rot="R180">
-<attribute name="NAME" x="114.808" y="39.624" size="1.778" layer="95"/>
-<attribute name="VALUE" x="114.046" y="43.053" size="1.778" layer="96" rot="R180"/>
+<instance part="SV1" gate="-4" x="106.68" y="10.16" smashed="yes" rot="R180">
+<attribute name="NAME" x="107.188" y="9.144" size="1.778" layer="95"/>
+<attribute name="VALUE" x="106.426" y="12.573" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SV1" gate="-5" x="114.3" y="45.72" smashed="yes" rot="R180">
-<attribute name="NAME" x="114.808" y="44.704" size="1.778" layer="95"/>
-<attribute name="VALUE" x="114.046" y="48.133" size="1.778" layer="96" rot="R180"/>
+<instance part="SV1" gate="-5" x="106.68" y="15.24" smashed="yes" rot="R180">
+<attribute name="NAME" x="107.188" y="14.224" size="1.778" layer="95"/>
+<attribute name="VALUE" x="106.426" y="17.653" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SV1" gate="-6" x="114.3" y="50.8" smashed="yes" rot="R180">
-<attribute name="NAME" x="114.808" y="49.784" size="1.778" layer="95"/>
-<attribute name="VALUE" x="114.046" y="53.213" size="1.778" layer="96" rot="R180"/>
+<instance part="SV1" gate="-6" x="106.68" y="20.32" smashed="yes" rot="R180">
+<attribute name="NAME" x="107.188" y="19.304" size="1.778" layer="95"/>
+<attribute name="VALUE" x="106.426" y="22.733" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SV1" gate="-7" x="114.3" y="55.88" smashed="yes" rot="R180">
-<attribute name="NAME" x="114.808" y="54.864" size="1.778" layer="95"/>
-<attribute name="VALUE" x="114.046" y="58.293" size="1.778" layer="96" rot="R180"/>
+<instance part="SV1" gate="-7" x="106.68" y="25.4" smashed="yes" rot="R180">
+<attribute name="NAME" x="107.188" y="24.384" size="1.778" layer="95"/>
+<attribute name="VALUE" x="106.426" y="27.813" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SV1" gate="-8" x="114.3" y="60.96" smashed="yes" rot="R180">
-<attribute name="NAME" x="114.808" y="59.944" size="1.778" layer="95"/>
-<attribute name="VALUE" x="114.046" y="63.373" size="1.778" layer="96" rot="R180"/>
+<instance part="SV1" gate="-8" x="106.68" y="30.48" smashed="yes" rot="R180">
+<attribute name="NAME" x="107.188" y="29.464" size="1.778" layer="95"/>
+<attribute name="VALUE" x="106.426" y="32.893" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SV1" gate="-9" x="114.3" y="66.04" smashed="yes" rot="R180">
-<attribute name="NAME" x="114.808" y="65.024" size="1.778" layer="95"/>
-<attribute name="VALUE" x="114.046" y="68.453" size="1.778" layer="96" rot="R180"/>
+<instance part="SV1" gate="-9" x="106.68" y="35.56" smashed="yes" rot="R180">
+<attribute name="NAME" x="107.188" y="34.544" size="1.778" layer="95"/>
+<attribute name="VALUE" x="106.426" y="37.973" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SV1" gate="-10" x="114.3" y="71.12" smashed="yes" rot="R180">
-<attribute name="NAME" x="114.808" y="70.104" size="1.778" layer="95"/>
-<attribute name="VALUE" x="114.046" y="73.533" size="1.778" layer="96" rot="R180"/>
+<instance part="SV1" gate="-10" x="106.68" y="40.64" smashed="yes" rot="R180">
+<attribute name="NAME" x="107.188" y="39.624" size="1.778" layer="95"/>
+<attribute name="VALUE" x="106.426" y="43.053" size="1.778" layer="96" rot="R180"/>
 </instance>
 </instances>
 <busses>
@@ -535,8 +537,8 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 </segment>
 <segment>
 <pinref part="SV1" gate="-10" pin="S"/>
-<wire x1="109.22" y1="71.12" x2="104.14" y2="71.12" width="0.1524" layer="91"/>
-<label x="104.14" y="71.12" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="101.6" y1="40.64" x2="96.52" y2="40.64" width="0.1524" layer="91"/>
+<label x="96.52" y="40.64" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="F1/SF" class="0">
@@ -550,8 +552,8 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 </segment>
 <segment>
 <pinref part="SV1" gate="-8" pin="S"/>
-<wire x1="109.22" y1="60.96" x2="104.14" y2="60.96" width="0.1524" layer="91"/>
-<label x="104.14" y="60.96" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="101.6" y1="30.48" x2="96.52" y2="30.48" width="0.1524" layer="91"/>
+<label x="96.52" y="30.48" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="VOLUME/ROUTE" class="0">
@@ -565,8 +567,8 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 </segment>
 <segment>
 <pinref part="SV1" gate="-9" pin="S"/>
-<wire x1="109.22" y1="66.04" x2="104.14" y2="66.04" width="0.1524" layer="91"/>
-<label x="104.14" y="66.04" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="101.6" y1="35.56" x2="96.52" y2="35.56" width="0.1524" layer="91"/>
+<label x="96.52" y="35.56" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="ESC" class="0">
@@ -580,8 +582,8 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 </segment>
 <segment>
 <pinref part="SV1" gate="-5" pin="S"/>
-<wire x1="109.22" y1="45.72" x2="104.14" y2="45.72" width="0.1524" layer="91"/>
-<label x="104.14" y="45.72" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="101.6" y1="15.24" x2="96.52" y2="15.24" width="0.1524" layer="91"/>
+<label x="96.52" y="15.24" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="ENTER/GOTO" class="0">
@@ -595,8 +597,8 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 </segment>
 <segment>
 <pinref part="SV1" gate="-2" pin="S"/>
-<wire x1="109.22" y1="30.48" x2="104.14" y2="30.48" width="0.1524" layer="91"/>
-<label x="104.14" y="30.48" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="101.6" y1="0" x2="96.52" y2="0" width="0.1524" layer="91"/>
+<label x="96.52" y="0" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="F2/MENU" class="0">
@@ -610,8 +612,8 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 </segment>
 <segment>
 <pinref part="SV1" gate="-1" pin="S"/>
-<wire x1="109.22" y1="25.4" x2="104.14" y2="25.4" width="0.1524" layer="91"/>
-<label x="104.14" y="25.4" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="101.6" y1="-5.08" x2="96.52" y2="-5.08" width="0.1524" layer="91"/>
+<label x="96.52" y="-5.08" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="UP" class="0">
@@ -625,8 +627,8 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 </segment>
 <segment>
 <pinref part="SV1" gate="-4" pin="S"/>
-<wire x1="109.22" y1="40.64" x2="104.14" y2="40.64" width="0.1524" layer="91"/>
-<label x="104.14" y="40.64" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="101.6" y1="10.16" x2="96.52" y2="10.16" width="0.1524" layer="91"/>
+<label x="96.52" y="10.16" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="LEFT" class="0">
@@ -640,8 +642,8 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 </segment>
 <segment>
 <pinref part="SV1" gate="-7" pin="S"/>
-<wire x1="109.22" y1="55.88" x2="104.14" y2="55.88" width="0.1524" layer="91"/>
-<label x="104.14" y="55.88" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="101.6" y1="25.4" x2="96.52" y2="25.4" width="0.1524" layer="91"/>
+<label x="96.52" y="25.4" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="DOWN" class="0">
@@ -655,8 +657,8 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 </segment>
 <segment>
 <pinref part="SV1" gate="-6" pin="S"/>
-<wire x1="109.22" y1="50.8" x2="104.14" y2="50.8" width="0.1524" layer="91"/>
-<label x="104.14" y="50.8" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="101.6" y1="20.32" x2="96.52" y2="20.32" width="0.1524" layer="91"/>
+<label x="96.52" y="20.32" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="RIGHT" class="0">
@@ -670,8 +672,8 @@ include  Type MT6; con-amp-mt6.lbr&lt;p&gt;
 </segment>
 <segment>
 <pinref part="SV1" gate="-3" pin="S"/>
-<wire x1="109.22" y1="35.56" x2="104.14" y2="35.56" width="0.1524" layer="91"/>
-<label x="104.14" y="35.56" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="101.6" y1="5.08" x2="96.52" y2="5.08" width="0.1524" layer="91"/>
+<label x="96.52" y="5.08" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 </nets>
